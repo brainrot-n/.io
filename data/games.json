@@ -1,62 +1,10 @@
 [
-    {
-        "id": 1,
-        "title": "Unblocked Games G Plus",
-        "slug": "unblocked-games-g-plus",
-        "description": "Play Unblocked Games G Plus for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 2,
-        "title": "Steal A Brainrot Unblocked",
-        "slug": "steal-a-brainrot-unblocked",
-        "description": "Play Steal A Brainrot Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 3,
-        "title": "Granny Unblocked",
-        "slug": "granny-unblocked",
-        "description": "Play Granny Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 4,
-        "title": "Bitlife Unblocked",
-        "slug": "bitlife-unblocked",
-        "description": "Play Bitlife Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 5,
-        "title": "Drift Hunters Unblocked",
-        "slug": "drift-hunters-unblocked",
-        "description": "Play Drift Hunters Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 6,
-        "title": "Snow Rider Unblocked",
-        "slug": "snow-rider-unblocked",
-        "description": "Play Snow Rider Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 7,
-        "title": "Unblocked G+",
-        "slug": "unblocked-g+",
-        "description": "Play Unblocked G+ for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 8,
-        "title": "Smash Karts Unblocked",
-        "slug": "smash-karts-unblocked",
-        "description": "Play Smash Karts Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 9,
-        "title": "Unblocked Games Freezenova",
-        "slug": "unblocked-games-freezenova",
-        "description": "Play Unblocked Games Freezenova for free on any Chromebook. No lag, full screen, and unblocked for school."
-    },
-    {
-        "id": 10,
-        "title": "Baseball Bros Unblocked",
-        "slug": "baseball-bros-unblocked",
-        "description": "Play Baseball Bros Unblocked for free on any Chromebook. No lag, full screen, and unblocked for school."
-    }
+  {
+    "id": "1",
+    "slug": "steal-a-brainrot",
+    "title": "Steal a Brainrot",
+    "description": "The official G+ unblocked version.",
+    "image": "https://steal-a-brainrot-unblocked-g.github.io/images/thumbnail.webp",
+    "iframe_url": "https://html5.gamedistribution.com/rvvASMiM/123456789/" 
+  }
 ]
